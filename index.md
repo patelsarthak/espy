@@ -9,10 +9,10 @@
 [Downlaod](assets/baby-bingo-all-cards.pdf) 
 
 ### Baby Bingo - Calling Sheet
-[Downlaod](assets/baby-bingo-calling-sheet.pdf) 
+[Downlaod](assets/baby-bingo-calling-sheet-1.pdf) 
 
 ### Baby Bingo - Calling Sheet
-[Downlaod](assets/baby-bingo-large-calling-sheet.pdf) 
+[Downlaod](assets/baby-bingo-large-calling-sheet-1.pdf) 
 
 <!-- # NGX-Admin Angular Template
 [Download](assets/ngx-admin.zip) | [Demo](https://www.akveo.com/ngx-admin/pages/dashboard) 
