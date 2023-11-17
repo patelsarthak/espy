@@ -8,6 +8,10 @@
 ### Baby Bingo - 100 cards
 [Downlaod](assets/baby-bingo-all-cards.pdf) 
 
+
+### calling sheet zip
+[Download](assets/calling-sheet.zip)
+
 ### Baby Bingo - Calling Sheet
 [Downlaod](assets/baby-bingo-calling-sheet-1.pdf) 
 
