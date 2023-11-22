@@ -12,6 +12,9 @@
 ### calling sheet zip
 [Download](assets/calling-sheet.zip)
 
+### Game Rules
+[Download](assets/game-rules.zip)
+
 ### Baby Bingo - Calling Sheet
 [Downlaod](assets/baby-bingo-calling-sheet-1.pdf) 
 
