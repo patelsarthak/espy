@@ -5,6 +5,9 @@
 [Downlaod](assets/SP_Happy-Photo.zip) 
 
 
+### chartjs-chart-graph
+[download](assets/chartjs-chart-graph.zip)
+
 ### Baby Bingo - 100 cards
 [Downlaod](assets/baby-bingo-all-cards.pdf) 
 
